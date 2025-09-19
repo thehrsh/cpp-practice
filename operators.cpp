@@ -109,7 +109,7 @@ int main(){
 
 
 
-
+// CHECKING PRIME NUMBER 
 #include<iostream>
 using namespace std;
 
@@ -146,7 +146,7 @@ int main(){
 }
 
 
-
+// CALCULATING THE FACTORIAL OF NUMBER N
 #include<iostream>
 using namespace std;
 

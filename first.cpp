@@ -7,7 +7,7 @@ int main() {
     return 0;
 }
 
-// INTEGERS,CHARACTERS ETC.
+// DATATYPES & VARIABLES 
 #include<iostream>
 using namespace std;
 
