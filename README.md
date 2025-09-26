@@ -7,9 +7,11 @@ This repository contains my practice code while learning the basics of C++ progr
 - Data Types & Variables
 - Operators
 - Conditional Statements (`if`, `else if`, `else`)
-- Loops (`while`,`for`)
+- Loops (`while`,`for`,`switch`)
 - Pattern Printing
 - bitwise operators
+- binary system
+- functions
 
 ## 📂 Files Overview
 
@@ -20,6 +22,8 @@ This repository contains my practice code while learning the basics of C++ progr
 | `patterns.cpp`   | Star and number pattern problems                          |
 | `patterns2.cpp`  | Alphabet-based pattern problems                           |
 | `forloop.cpp`    | special patterns, fibonacci serie & some small topics     |
+| `binary.cpp`     | conversions of  binary&decimal , switch case                                                          |
+| `functions.cpp`  | my calculator & note counter , functions                                                          |
 
 
 
